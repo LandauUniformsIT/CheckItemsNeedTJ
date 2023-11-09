@@ -1,0 +1,3 @@
+{
+    "conn_string": "Driver={SQL Server};Server=172.20.10.100;Database=LAN_AX2012_PROD;UID=NGCReport;PWD=NGC8410;"
+}
